@@ -1,0 +1,58 @@
+[
+  {
+    "id": "dc-2025-trayon-white-sr",
+    "name": "Trayon White Sr.",
+    "party": "DEM",
+    "bio": "Trayon White Sr. is a Washington, D.C. native and longtime Ward 8 councilmember, known for his work on youth, housing, and community development.",
+    "website": "https://trayonwhite8.com",
+    "photo_url": "https://trayonwhite8.com"
+  },
+  {
+    "id": "dc-2025-mike-austin",
+    "name": "Mike Austin",
+    "party": "DEM",
+    "bio": "Mike Austin is a fourth-generation Washingtonian, attorney, and former ANC 8C chair who has worked on economic development and Ward 8 public policy.",
+    "website": "https://www.mikeaustin8.com",
+    "photo_url": "https://www.mikeaustin8.com"
+  },
+  {
+    "id": "dc-2025-sheila-bunn",
+    "name": "Sheila Bunn",
+    "party": "DEM",
+    "bio": "Sheila Bunn is a lifelong Ward 8 resident and veteran public servant with decades of experience working in Congress, the Mayor\u2019s Office, and the D.C. Council.",
+    "website": "https://www.bunnforward8.com",
+    "photo_url": "https://www.bunnforward8.com"
+  },
+  {
+    "id": "dc-2025-salim-adofo",
+    "name": "Salim Adofo",
+    "party": "DEM",
+    "bio": "Salim Adofo is a community advocate, ANC 8C commissioner, and U.S. Army veteran focused on education, housing quality, and safety in Ward 8.",
+    "website": "https://www.salimforward8.com",
+    "photo_url": "https://www.salimforward8.com"
+  },
+  {
+    "id": "dc-2025-write-in",
+    "name": "Write-in",
+    "party": "NPN",
+    "bio": "",
+    "website": "",
+    "photo_url": ""
+  },
+  {
+    "id": "dc-2025-over-votes",
+    "name": "OVER VOTES",
+    "party": "",
+    "bio": "",
+    "website": "",
+    "photo_url": ""
+  },
+  {
+    "id": "dc-2025-under-votes",
+    "name": "UNDER VOTES",
+    "party": "",
+    "bio": "",
+    "website": "",
+    "photo_url": ""
+  }
+]

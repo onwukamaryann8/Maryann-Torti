@@ -1,0 +1,758 @@
+[
+  {
+    "precinct_id": "112",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-trayon-white-sr",
+    "votes": 80
+  },
+  {
+    "precinct_id": "112",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-mike-austin",
+    "votes": 67
+  },
+  {
+    "precinct_id": "112",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-sheila-bunn",
+    "votes": 82
+  },
+  {
+    "precinct_id": "112",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-salim-adofo",
+    "votes": 55
+  },
+  {
+    "precinct_id": "112",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-write-in",
+    "votes": 1
+  },
+  {
+    "precinct_id": "112",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-over-votes",
+    "votes": 4
+  },
+  {
+    "precinct_id": "112",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-under-votes",
+    "votes": 0
+  },
+  {
+    "precinct_id": "114",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-under-votes",
+    "votes": 1
+  },
+  {
+    "precinct_id": "114",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-over-votes",
+    "votes": 1
+  },
+  {
+    "precinct_id": "114",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-write-in",
+    "votes": 7
+  },
+  {
+    "precinct_id": "114",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-salim-adofo",
+    "votes": 103
+  },
+  {
+    "precinct_id": "114",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-sheila-bunn",
+    "votes": 241
+  },
+  {
+    "precinct_id": "114",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-mike-austin",
+    "votes": 116
+  },
+  {
+    "precinct_id": "114",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-trayon-white-sr",
+    "votes": 153
+  },
+  {
+    "precinct_id": "115",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-trayon-white-sr",
+    "votes": 80
+  },
+  {
+    "precinct_id": "115",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-mike-austin",
+    "votes": 68
+  },
+  {
+    "precinct_id": "115",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-sheila-bunn",
+    "votes": 59
+  },
+  {
+    "precinct_id": "115",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-salim-adofo",
+    "votes": 35
+  },
+  {
+    "precinct_id": "115",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-write-in",
+    "votes": 2
+  },
+  {
+    "precinct_id": "115",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-over-votes",
+    "votes": 1
+  },
+  {
+    "precinct_id": "115",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-under-votes",
+    "votes": 1
+  },
+  {
+    "precinct_id": "116",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-under-votes",
+    "votes": 1
+  },
+  {
+    "precinct_id": "116",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-over-votes",
+    "votes": 1
+  },
+  {
+    "precinct_id": "116",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-write-in",
+    "votes": 3
+  },
+  {
+    "precinct_id": "116",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-salim-adofo",
+    "votes": 59
+  },
+  {
+    "precinct_id": "116",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-sheila-bunn",
+    "votes": 71
+  },
+  {
+    "precinct_id": "116",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-mike-austin",
+    "votes": 93
+  },
+  {
+    "precinct_id": "116",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-trayon-white-sr",
+    "votes": 125
+  },
+  {
+    "precinct_id": "117",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-trayon-white-sr",
+    "votes": 201
+  },
+  {
+    "precinct_id": "117",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-mike-austin",
+    "votes": 106
+  },
+  {
+    "precinct_id": "117",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-sheila-bunn",
+    "votes": 62
+  },
+  {
+    "precinct_id": "117",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-salim-adofo",
+    "votes": 70
+  },
+  {
+    "precinct_id": "117",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-write-in",
+    "votes": 1
+  },
+  {
+    "precinct_id": "117",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-over-votes",
+    "votes": 4
+  },
+  {
+    "precinct_id": "117",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-under-votes",
+    "votes": 0
+  },
+  {
+    "precinct_id": "118",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-under-votes",
+    "votes": 1
+  },
+  {
+    "precinct_id": "118",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-over-votes",
+    "votes": 4
+  },
+  {
+    "precinct_id": "118",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-write-in",
+    "votes": 4
+  },
+  {
+    "precinct_id": "118",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-salim-adofo",
+    "votes": 125
+  },
+  {
+    "precinct_id": "118",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-sheila-bunn",
+    "votes": 114
+  },
+  {
+    "precinct_id": "118",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-mike-austin",
+    "votes": 119
+  },
+  {
+    "precinct_id": "118",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-trayon-white-sr",
+    "votes": 165
+  },
+  {
+    "precinct_id": "119",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-trayon-white-sr",
+    "votes": 132
+  },
+  {
+    "precinct_id": "119",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-mike-austin",
+    "votes": 67
+  },
+  {
+    "precinct_id": "119",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-sheila-bunn",
+    "votes": 79
+  },
+  {
+    "precinct_id": "119",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-salim-adofo",
+    "votes": 61
+  },
+  {
+    "precinct_id": "119",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-write-in",
+    "votes": 5
+  },
+  {
+    "precinct_id": "119",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-over-votes",
+    "votes": 3
+  },
+  {
+    "precinct_id": "119",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-under-votes",
+    "votes": 2
+  },
+  {
+    "precinct_id": "120",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-under-votes",
+    "votes": 0
+  },
+  {
+    "precinct_id": "120",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-over-votes",
+    "votes": 0
+  },
+  {
+    "precinct_id": "120",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-write-in",
+    "votes": 2
+  },
+  {
+    "precinct_id": "120",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-salim-adofo",
+    "votes": 95
+  },
+  {
+    "precinct_id": "120",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-sheila-bunn",
+    "votes": 86
+  },
+  {
+    "precinct_id": "120",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-mike-austin",
+    "votes": 129
+  },
+  {
+    "precinct_id": "120",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-trayon-white-sr",
+    "votes": 98
+  },
+  {
+    "precinct_id": "121",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-trayon-white-sr",
+    "votes": 261
+  },
+  {
+    "precinct_id": "121",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-mike-austin",
+    "votes": 147
+  },
+  {
+    "precinct_id": "121",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-sheila-bunn",
+    "votes": 108
+  },
+  {
+    "precinct_id": "121",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-salim-adofo",
+    "votes": 137
+  },
+  {
+    "precinct_id": "121",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-write-in",
+    "votes": 2
+  },
+  {
+    "precinct_id": "121",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-over-votes",
+    "votes": 4
+  },
+  {
+    "precinct_id": "121",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-under-votes",
+    "votes": 2
+  },
+  {
+    "precinct_id": "122",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-under-votes",
+    "votes": 0
+  },
+  {
+    "precinct_id": "122",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-over-votes",
+    "votes": 1
+  },
+  {
+    "precinct_id": "122",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-write-in",
+    "votes": 2
+  },
+  {
+    "precinct_id": "122",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-salim-adofo",
+    "votes": 145
+  },
+  {
+    "precinct_id": "122",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-sheila-bunn",
+    "votes": 106
+  },
+  {
+    "precinct_id": "122",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-mike-austin",
+    "votes": 76
+  },
+  {
+    "precinct_id": "122",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-trayon-white-sr",
+    "votes": 123
+  },
+  {
+    "precinct_id": "123",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-trayon-white-sr",
+    "votes": 79
+  },
+  {
+    "precinct_id": "123",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-mike-austin",
+    "votes": 101
+  },
+  {
+    "precinct_id": "123",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-sheila-bunn",
+    "votes": 77
+  },
+  {
+    "precinct_id": "123",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-salim-adofo",
+    "votes": 80
+  },
+  {
+    "precinct_id": "123",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-write-in",
+    "votes": 7
+  },
+  {
+    "precinct_id": "123",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-over-votes",
+    "votes": 0
+  },
+  {
+    "precinct_id": "123",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-under-votes",
+    "votes": 0
+  },
+  {
+    "precinct_id": "124",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-under-votes",
+    "votes": 1
+  },
+  {
+    "precinct_id": "124",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-over-votes",
+    "votes": 1
+  },
+  {
+    "precinct_id": "124",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-write-in",
+    "votes": 6
+  },
+  {
+    "precinct_id": "124",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-salim-adofo",
+    "votes": 95
+  },
+  {
+    "precinct_id": "124",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-sheila-bunn",
+    "votes": 138
+  },
+  {
+    "precinct_id": "124",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-mike-austin",
+    "votes": 127
+  },
+  {
+    "precinct_id": "124",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-trayon-white-sr",
+    "votes": 146
+  },
+  {
+    "precinct_id": "125",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-trayon-white-sr",
+    "votes": 193
+  },
+  {
+    "precinct_id": "125",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-mike-austin",
+    "votes": 151
+  },
+  {
+    "precinct_id": "125",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-sheila-bunn",
+    "votes": 139
+  },
+  {
+    "precinct_id": "125",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-salim-adofo",
+    "votes": 102
+  },
+  {
+    "precinct_id": "125",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-write-in",
+    "votes": 1
+  },
+  {
+    "precinct_id": "125",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-over-votes",
+    "votes": 3
+  },
+  {
+    "precinct_id": "125",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-under-votes",
+    "votes": 2
+  },
+  {
+    "precinct_id": "126",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-under-votes",
+    "votes": 0
+  },
+  {
+    "precinct_id": "126",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-over-votes",
+    "votes": 1
+  },
+  {
+    "precinct_id": "126",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-write-in",
+    "votes": 2
+  },
+  {
+    "precinct_id": "126",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-salim-adofo",
+    "votes": 97
+  },
+  {
+    "precinct_id": "126",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-sheila-bunn",
+    "votes": 216
+  },
+  {
+    "precinct_id": "126",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-mike-austin",
+    "votes": 123
+  },
+  {
+    "precinct_id": "126",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-trayon-white-sr",
+    "votes": 203
+  },
+  {
+    "precinct_id": "131",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-trayon-white-sr",
+    "votes": 77
+  },
+  {
+    "precinct_id": "131",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-mike-austin",
+    "votes": 337
+  },
+  {
+    "precinct_id": "131",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-sheila-bunn",
+    "votes": 308
+  },
+  {
+    "precinct_id": "131",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-salim-adofo",
+    "votes": 414
+  },
+  {
+    "precinct_id": "131",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-write-in",
+    "votes": 15
+  },
+  {
+    "precinct_id": "131",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-over-votes",
+    "votes": 1
+  },
+  {
+    "precinct_id": "131",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-under-votes",
+    "votes": 0
+  },
+  {
+    "precinct_id": "133",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-under-votes",
+    "votes": 0
+  },
+  {
+    "precinct_id": "133",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-over-votes",
+    "votes": 0
+  },
+  {
+    "precinct_id": "133",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-write-in",
+    "votes": 0
+  },
+  {
+    "precinct_id": "133",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-salim-adofo",
+    "votes": 126
+  },
+  {
+    "precinct_id": "133",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-sheila-bunn",
+    "votes": 99
+  },
+  {
+    "precinct_id": "133",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-mike-austin",
+    "votes": 113
+  },
+  {
+    "precinct_id": "133",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-trayon-white-sr",
+    "votes": 69
+  },
+  {
+    "precinct_id": "134",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-trayon-white-sr",
+    "votes": 138
+  },
+  {
+    "precinct_id": "134",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-mike-austin",
+    "votes": 69
+  },
+  {
+    "precinct_id": "134",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-sheila-bunn",
+    "votes": 63
+  },
+  {
+    "precinct_id": "134",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-salim-adofo",
+    "votes": 59
+  },
+  {
+    "precinct_id": "134",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-write-in",
+    "votes": 1
+  },
+  {
+    "precinct_id": "134",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-over-votes",
+    "votes": 1
+  },
+  {
+    "precinct_id": "134",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-under-votes",
+    "votes": 0
+  },
+  {
+    "precinct_id": "140",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-under-votes",
+    "votes": 0
+  },
+  {
+    "precinct_id": "140",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-over-votes",
+    "votes": 0
+  },
+  {
+    "precinct_id": "140",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-write-in",
+    "votes": 2
+  },
+  {
+    "precinct_id": "140",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-salim-adofo",
+    "votes": 74
+  },
+  {
+    "precinct_id": "140",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-sheila-bunn",
+    "votes": 92
+  },
+  {
+    "precinct_id": "140",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-mike-austin",
+    "votes": 94
+  },
+  {
+    "precinct_id": "140",
+    "contest_id": "4",
+    "candidate_id": "dc-2025-trayon-white-sr",
+    "votes": 69
+  }
+]

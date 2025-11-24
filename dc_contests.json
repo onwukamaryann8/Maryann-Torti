@@ -1,0 +1,20 @@
+[
+  {
+    "id": "-2",
+    "name": "REGISTERED VOTERS - TOTAL",
+    "office_level": "summary",
+    "description": "REGISTERED VOTERS - TOTAL"
+  },
+  {
+    "id": "-1",
+    "name": "BALLOTS CAST - TOTAL",
+    "office_level": "summary",
+    "description": "BALLOTS CAST - TOTAL"
+  },
+  {
+    "id": "4",
+    "name": "WARD EIGHT MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA",
+    "office_level": "ward",
+    "description": "WARD EIGHT MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA"
+  }
+]
